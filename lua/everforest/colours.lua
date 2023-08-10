@@ -71,9 +71,9 @@ local hard_background = {
 ---@type PaletteBackgrounds
 local medium_background = {
   dark = {
-    bg_dim = "#232a2e",
+    bg_dim = "#1D1E1D",
     bg0 = "#0f100f",
-    bg1 = "#343f44",
+    bg1 = "#2D2B2B",
     bg2 = "#3d484d",
     bg3 = "#475258",
     bg4 = "#4f585e",
