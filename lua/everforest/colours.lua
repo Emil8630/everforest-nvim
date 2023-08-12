@@ -135,7 +135,7 @@ local soft_background = {
 ---@type table<Backgrounds, PaletteBase>
 local base_palette = {
   light = {
-    fg = "#d3c6aa",
+    fg = "#e1e3da",
     red = "#a56376",
     orange = "#c18873",
     yellow = "#e0c790",
@@ -152,7 +152,7 @@ local base_palette = {
     none = "NONE",
   },
   dark = {
-    fg = "#d3c6aa",
+    fg = "#e1e3da",
     red = "#a56376",
     orange = "#c18873",
     yellow = "#e0c790",
@@ -164,7 +164,7 @@ local base_palette = {
     grey1 = "#686964",
     grey2 = "#b3b5ad",
     statusline1 = "#a7c080",
-    statusline2 = "#d3c6aa",
+    statusline2 = "#e1e3da",
     statusline3 = "#e67e80",
     none = "NONE",
   },
